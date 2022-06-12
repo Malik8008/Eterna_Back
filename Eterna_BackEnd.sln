@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eterna_BackEnd", "Eterna_BackEnd\Eterna_BackEnd.csproj", "{838D82F9-1F5F-4B22-AB4B-D332696D1100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838D82F9-1F5F-4B22-AB4B-D332696D1100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838D82F9-1F5F-4B22-AB4B-D332696D1100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838D82F9-1F5F-4B22-AB4B-D332696D1100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838D82F9-1F5F-4B22-AB4B-D332696D1100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8232B47-26C6-4B7F-8925-5B384B969E05}
+	EndGlobalSection
+EndGlobal
