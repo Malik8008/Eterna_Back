@@ -8630,11 +8630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Eterna_BackEnd\\Eterna_BackEnd\\Eterna_BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\Eterna_BackEnd\\Eterna_BackEnd\\Eterna_BackEnd.csproj",
       "projectName": "Eterna_BackEnd",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Eterna_BackEnd\\Eterna_BackEnd\\Eterna_BackEnd.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Eterna_BackEnd\\Eterna_BackEnd\\Eterna_BackEnd.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Eterna_BackEnd\\Eterna_BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Eterna_BackEnd\\Eterna_BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

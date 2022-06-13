@@ -23,6 +23,7 @@ namespace Eterna_BackEnd.DAL
 
         public DbSet<Skill> Skills { get; set; }
         public DbSet<ProgressBar> Progresses { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
 
     }
 

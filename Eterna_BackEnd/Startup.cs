@@ -50,7 +50,7 @@ namespace Eterna_BackEnd
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=service}/{action=index}/{id?}");  
+                    pattern: "{controller=home}/{action=home}/{id?}");  
             });
         }
     }
