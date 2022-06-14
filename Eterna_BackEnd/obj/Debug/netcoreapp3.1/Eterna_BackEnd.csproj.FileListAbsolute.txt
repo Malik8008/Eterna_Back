@@ -298,4 +298,13 @@ C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcorea
 C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Eterna_BackEnd.dll
 C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Eterna_BackEnd.pdb
 C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Eterna_BackEnd.genruntimeconfig.cache
-C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Slider\Detail.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Slider\Create.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Slider\Delete.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Eterna_BackEnd\Eterna_BackEnd\obj\Debug\netcoreapp3.1\Razor\Areas\EternaAdmin\Views\Slider\Edit.cshtml.g.cs

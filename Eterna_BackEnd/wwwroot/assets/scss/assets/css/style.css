@@ -89,7 +89,13 @@ main .services {
   background-color: #e9ecef;
 }
 
+main .menu .container .row{
+    height: 720px;
+}
+
 main .menu .container .row .box {
+  display: flex;
+  align-content:space-around;
   width: 420px;
   height: 350px;
   border: solid 1px #ece8e8;

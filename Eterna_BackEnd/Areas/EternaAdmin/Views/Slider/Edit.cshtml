@@ -1,0 +1,32 @@
+﻿@model Slider
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<form method="post" enctype="multipart/form-data">
+
+    <div>
+        <label for="title" class="form-label">Title</label>
+        <input asp-for="@Model.Title" class="form-control"/>
+        <span asp-validation-for="@Model.Title" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="title" class="form-label">OrangeTitle</label>
+        <input asp-for="@Model.OrangeTitle" class="form-control"/>
+        <span asp-validation-for="@Model.OrangeTitle" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="title" class="form-label">Subtitle</label>
+        <input asp-for="@Model.Subtitle" class="form-control"/>
+        <span asp-validation-for="@Model.Subtitle" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="title" class="form-label">Photo</label>
+        <input asp-for="@Model.Image" class="form-control"/>
+        <span asp-validation-for="@Model.Image" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

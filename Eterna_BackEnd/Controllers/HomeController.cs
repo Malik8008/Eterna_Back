@@ -15,11 +15,14 @@ namespace Eterna_BackEnd.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Home()
+        public async Task<IActionResult> Index()
         {
             HomeVM homeVM = new HomeVM 
             { 
                 Sliders = await _context.Sliders.ToListAsync(),
+                FirstCards = await _context.homeFirstCards.ToListAsync(),
+                SecondCards = await _context.homeSecondCards.ToListAsync(), 
+                Brands = await _context.brands.ToListAsync(),
             };
 
             return View(homeVM);

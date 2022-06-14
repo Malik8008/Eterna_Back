@@ -1,0 +1,48 @@
+﻿
+ @model List<Slider>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="table-responsiv pt-3">
+
+    <a asp-controller="Slider" asp-action="Create"  style="color:white; font-size:20px;" class="mb-3 mx-2 btn btn-success">Create Slider</a>
+
+<table class="table table-dark table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Image</th>
+      <th scope="col">Title</th>
+      <th scope="col">OrangeTitle</th>
+      <th scope="col">Subtitle</th>
+      <th scope="col">Detail</th>
+      <th scope="col">Edit</th>
+      <th scope="col">Delete</th>
+      
+    </tr>
+  </thead>
+        <tbody>
+            @foreach (Slider slider in Model)
+            {
+                <tr>
+                    <td><img style="width:250px; height:250px;" src="~/assets/IMG/slider-image/@slider.Image" /></td>
+                    <td>@slider.Title</td>
+                    <td>@slider.OrangeTitle</td>
+                    <td style="width:450px";>@slider.Subtitle</td>
+                    <td>
+                        <a asp-controller="Slider" asp-action="Detail" asp-route-id="@slider.Id" class="btn btn-danger"><i class="mdi mdi-dns"></i></a>
+                    </td>
+                    <td>
+                        <a asp-controller="Slider" asp-action="Edit" asp-route-id="@slider.Id" class="btn btn-danger"><i class="mdi mdi-cloud-sync"></i></a>
+                    </td>
+                    <td>
+                        <a asp-controller="Slider" asp-action="Delete" asp-route-id="@slider.Id" class="btn btn-danger"> <i class="mdi mdi-delete"></i></a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+</table>
+
+</div>
+
